@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.0.sdk -mmacosx-version-min=11.6 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/fourier.dir/src/dofft.cpp.o CMakeFiles/fourier.dir/src/example.cpp.o CMakeFiles/fourier.dir/src/fftHelper.cpp.o -o fourier 
